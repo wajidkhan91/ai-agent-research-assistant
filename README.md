@@ -49,5 +49,5 @@ or
 
 
 🙋‍♂️ Author
-Wajid Khan
+Abdul Wajid 
 GitHub Profile
