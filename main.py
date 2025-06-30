@@ -1,10 +1,7 @@
 from dotenv import load_dotenv
 import os
 from typing import Optional
-
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_core.prompts import PromptTemplate
-from langchain_core.output_parsers import StrOutputParser
 from langchain.agents import create_react_agent, AgentExecutor
 from langchain import hub
 from langchain_core.tools import tool
